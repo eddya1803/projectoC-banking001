@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\ProjectoBanco\ProjectoBanco\obj\x86\Debug\ProjectoBanco.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ProjectoBanco\ProjectoBanco\obj\x86\Debug\Workflow1.g.xaml
+C:\Users\HP\source\repos\ProjectoBanco\ProjectoBanco\obj\x86\Debug\ProjectoBanco_Workflow1_BeforeInitializeComponentHelper.txt
+C:\Users\HP\source\repos\ProjectoBanco\ProjectoBanco\obj\x86\Debug\_ProjectoBanco.g.cs
+C:\Users\HP\source\repos\ProjectoBanco\ProjectoBanco\obj\x86\Debug\Workflow1.g.cs
+C:\Users\HP\source\repos\ProjectoBanco\ProjectoBanco\obj\x86\Debug\ProjectoBanco_Workflow1_BeforeInitializeComponentHelper.cs
+C:\Users\HP\source\repos\ProjectoBanco\ProjectoBanco\obj\x86\Debug\ProjectoBanco.csproj.XamlGeneratedCodeFileListAbsolute.txt
+C:\Users\HP\source\repos\ProjectoBanco\ProjectoBanco\obj\x86\Debug\ProjectoBanco.csproj.XamlGeneratedXamlFileListAbsolute.txt
+C:\Users\HP\source\repos\ProjectoBanco\ProjectoBanco\bin\Debug\ProjectoBanco.exe.config
+C:\Users\HP\source\repos\ProjectoBanco\ProjectoBanco\bin\Debug\ProjectoBanco.exe
+C:\Users\HP\source\repos\ProjectoBanco\ProjectoBanco\bin\Debug\ProjectoBanco.pdb
+C:\Users\HP\source\repos\ProjectoBanco\ProjectoBanco\obj\x86\Debug\ProjectoBanco.csproj.FileListAbsolute.txt
+C:\Users\HP\source\repos\ProjectoBanco\ProjectoBanco\obj\x86\Debug\ProjectoBanco.csproj.XamlPass2Flag.txt
+C:\Users\HP\source\repos\ProjectoBanco\ProjectoBanco\obj\x86\Debug\ProjectoBanco.dll
+C:\Users\HP\source\repos\ProjectoBanco\ProjectoBanco\obj\x86\Debug\ProjectoBanco.pdb
+C:\Users\HP\source\repos\ProjectoBanco\ProjectoBanco\obj\x86\Debug\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
+C:\Users\HP\source\repos\ProjectoBanco\ProjectoBanco\obj\x86\Debug\ProjectoBanco.exe

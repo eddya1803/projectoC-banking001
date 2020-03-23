@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29521.150
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectoBanco", "ProjectoBanco\ProjectoBanco.csproj", "{2ECD9D21-2323-42A5-A2BB-A539183E4111}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ECD9D21-2323-42A5-A2BB-A539183E4111}.Debug|x86.ActiveCfg = Debug|x86
+		{2ECD9D21-2323-42A5-A2BB-A539183E4111}.Debug|x86.Build.0 = Debug|x86
+		{2ECD9D21-2323-42A5-A2BB-A539183E4111}.Release|x86.ActiveCfg = Release|x86
+		{2ECD9D21-2323-42A5-A2BB-A539183E4111}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8DBF99A-8B2D-435A-8429-A8892675F777}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+﻿
+Marzo 20, 2020
+
+Sistema projecto final curso C#, Facultad de Ciencias UASD, curso de los Lunes de 6 a 10 PM
+Projecto final: Pagina de un internet banking por consola
+Grupo del projecto: Genesis, Jose, Gabriel y Eddy
+
+Descripcion:
+   Es un internet banking que permitira realizar depositos, retiros y transferencias a terceros.
+Con un menu que ofrece 5 opciones, ademas, incluyendo cambiar de cliente y finalizar.
+
+   Este proyecto maneja tres clientes de un internet banking, inicializados como "Juan", "Maria" y
+"Pedro", con sus respectivas claves y sus cuentas con valor cero, manejando los procesos de
+Depositos, Retiros y Transferencias. Ya que es un internet banking "inusual" (con depositos y
+retiros), lo manejamos como tal, permitiendo que el usuario cambie de cliente cuando quiera, y
+pueda realizar los depositos iniciales que le paresca, para luego realizar retiros, y ademas, 
+las transferencias entre ellos, y cuando lo desee puede salir del sistema.
